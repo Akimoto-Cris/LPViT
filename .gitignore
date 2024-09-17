@@ -1,0 +1,15 @@
+*.ipynb
+**/*.pth
+**/*.pt
+**/*.pth.tar
+
+__pycache__/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+experiment/
+dicts/
+rd_curves/
+
